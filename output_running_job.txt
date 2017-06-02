@@ -1,0 +1,11 @@
+C:\Users\Administrator\go\src\github.com\ardeshir\jobs>go run main.go
+Self-signed SSL certificate generated; thumbprint: 378AEE34CEBFE0890751F0B4098B92D2D4245885
+
+wxf                 : http://schemas.xmlsoap.org/ws/2004/09/transfer
+a                   : http://schemas.xmlsoap.org/ws/2004/08/addressing
+w                   : http://schemas.dmtf.org/wbem/wsman/1/wsman.xsd
+lang                : en-US
+Address             : http://schemas.xmlsoap.org/ws/2004/08/addressing/role/anonymous
+ReferenceParameters : ReferenceParameters
+
+Ok.
